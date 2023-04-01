@@ -255,7 +255,8 @@ namespace DarkCodex
 
             ab.Add(2,
                 "bad8638d40639d04fa2f80a1cac67d6b", //DruidSpellList
-                "c0c40e42f07ff104fa85492da464ac69"  //ShamanSpelllist
+                "c0c40e42f07ff104fa85492da464ac69", //ShamanSpelllist
+                "9f5be2f7ea64fe04eb40878347b147bc"  //PaladinSpelllist
                 );
 
             feat.SetComponents(new PrerequisiteKnowsSpell(ab, true));
